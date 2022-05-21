@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "ShopBHDbContext": "Server=DESKTOP-HEFOS0P\\SQLEXPRESS;Database=ShopBH;Trusted_Connection=True;"
+  }
+}
